@@ -153,3 +153,12 @@ body{
  
      transition: background-color 1000ms, color 1000ms;
  }
+
+ .dev {
+    display: block;
+    margin-top: 2px;
+    text-align: right ;
+    color:white;
+    font-size:10pt;
+    font-family:serif;
+}
